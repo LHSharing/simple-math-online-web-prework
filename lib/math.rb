@@ -17,6 +17,7 @@ end
 
 #4
 def multiplication(num1, num2)
+num1 * num2
 end
 
 #5
