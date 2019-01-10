@@ -6,7 +6,7 @@ end
 
 
 #2
-def subtraction(num1 - num2)
+def subtraction(num1, num2)
 
 end
 
