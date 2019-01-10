@@ -1,7 +1,7 @@
 require 'pry'
 # 1
 def addition(num1, num2)
-5 + 4
+addition(5 + 4)
 end
 
 
