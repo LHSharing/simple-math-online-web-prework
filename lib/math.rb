@@ -3,6 +3,7 @@ require 'pry'
 def addition(num1, num2)
 5 + 4
 end
+binding.pry
 
 #2
 def subtraction(num1, num2)
