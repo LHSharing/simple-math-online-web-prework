@@ -23,14 +23,13 @@ end
 #5
 def modulo(num1, num2)
   num1 % num2
-  binding.pry
 end
-
+binding.pry
 #6
 def square_root(num)
   num.sqrt
 end
-
+binding.pry
 #7
 def order_of_operation(num1, num2, num3, num4)
   
