@@ -2,13 +2,13 @@ require 'pry'
 # 1
 def addition(num1, num2)
 5 + 4
-binding.pry
 end
 
 
 #2
 def subtraction(num1, num2)
 
+binding.pry
 end
 
 #3
