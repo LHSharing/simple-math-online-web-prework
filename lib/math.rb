@@ -22,12 +22,12 @@ end
 
 #5
 def modulo(num1, num2)
-  
+  num1 % num2
 end
 
 #6
 def square_root(num)
-  
+  num.sqrt
 end
 
 #7
