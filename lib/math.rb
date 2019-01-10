@@ -29,7 +29,7 @@ end
 def square_root(num)
   num.sqrt
 end
-binding.pry
+
 #7
 def order_of_operation(num1, num2, num3, num4)
   
