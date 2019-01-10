@@ -8,7 +8,6 @@ end
 #2
 def subtraction(num1, num2)
 
-binding.pry
 end
 
 #3
