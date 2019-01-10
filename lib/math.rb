@@ -1,12 +1,12 @@
 require 'pry'
 # 1
 def addition(num1 + num2)
-addition(5 + 4)
+addition(5,4)
 end
 
 
 #2
-def subtraction(num1, num2)
+def subtraction(num1 - num2)
 
 end
 
